@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is altewama and I'm a student, from Spain</p>
+<p align="left">My name is altewama and I'm a student, from Europe</p>
 
 ###
 
