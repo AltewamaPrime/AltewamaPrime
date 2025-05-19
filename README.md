@@ -1,15 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there! 👋  
+
+I’m a **Rust** and **Python** enthusiast 🦀🐍 with a knack for coding tools that *do things*—whether it’s bots (Discord, Telegram 🤖) or... *other projects* (let’s just say I’ve explored the darker corners of cybersecurity 🔒). 
+
+### **What I’m up to**  
+- 🔨 Specializing in **Rust**—I believe it’s the future of systems programming.  
+- 🌱 Occasionally dabbling in **HTML**, though frontend/backend isn’t my forte (yet).  
+- 🎮 When not coding, I’m gaming or out partying. Balance is key, right?  
+
+### **Fun facts**  
+- 🐱 Cat lover.  
+- 🌯 Durum addict.  
+- 💌 *"A kiss to the entire GitHub community!"*  
+
+---  
 
 ###
 
-<p align="left">My name is altewama and I'm a student, from Europe</p>
+<img src="https://raw.githubusercontent.com/AltewamaPrime/AltewamaPrime/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="left">About me</h2>
+**Disclaimer**: My projects are for educational purposes only. 🚫 No shady business.  
 
-###
-
-<p align="left">✨ I'm new to this environment and I hope to learn a lot of things<br>📚 I am currently learning and I still have a lot of things to improve<br></p>
-
-###
+*Want to collaborate or chat? DM me!*  
